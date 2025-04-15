@@ -1,4 +1,6 @@
-# Power plant model project
+# Power plant model projects
+
+https://github.com/zackmwangi/duke_ai_pm
 
 This is a simple model development project whose goal is to predict the electrical energy output of a power plant given a dataset.
 
